@@ -35,5 +35,3 @@ var theFunk = funkyFunction() {
   return funkyFunction()
 }
   
-
-
