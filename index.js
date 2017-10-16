@@ -36,5 +36,3 @@ var theFunk = funkyFunction()();
 console.log(theFunk);
 
 }
-
- 
